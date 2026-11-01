@@ -22,6 +22,6 @@
   "privacyPolicyUrl": "https://opinionalpha.app/privacy",
   "icon": ".claude-plugin/icon.png",
   "documentationUrl": "https://opinionalpha.app/blog/opinion-alpha-in-your-ai-assistant",
-  "supportUrl": "mailto:support@opinionalpha.app",
+  "supportUrl": "https://github.com/opinionalpha/opinion-alpha/issues",
   "termsOfServiceUrl": "https://opinionalpha.app/terms"
 }
