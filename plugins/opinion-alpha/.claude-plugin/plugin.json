@@ -7,7 +7,7 @@
     "email": "support@opinionalpha.app",
     "url": "https://opinionalpha.app"
   },
-  "homepage": "https://opinionalpha.app/blog/opinion-alpha-in-your-ai-assistant",
+  "homepage": "https://opinionalpha.app",
   "repository": "https://github.com/opinionalpha/opinion-alpha",
   "license": "MIT",
   "keywords": [
@@ -20,5 +20,8 @@
     "mcp"
   ],
   "privacyPolicyUrl": "https://opinionalpha.app/privacy",
-  "icon": ".claude-plugin/icon.png"
+  "icon": ".claude-plugin/icon.png",
+  "documentationUrl": "https://opinionalpha.app/blog/opinion-alpha-in-your-ai-assistant",
+  "supportUrl": "mailto:support@opinionalpha.app",
+  "termsOfServiceUrl": "https://opinionalpha.app/terms"
 }
