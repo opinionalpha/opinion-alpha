@@ -39,6 +39,15 @@ or only the server: `claude mcp add --transport http opinion-alpha https://api.o
 
 **ChatGPT**: add a custom connector (app) with the address above.
 
+**Codex**: in a terminal, then sign in when the browser opens:
+
+```
+codex mcp add opinion-alpha --url https://api.opinionalpha.app/mcp
+codex mcp login opinion-alpha
+```
+
+`codex mcp list` should show it enabled with OAuth; run the login again if a long break signs you out.
+
 **Cursor**: install from the [Cursor directory](https://cursor.directory/plugins/opinion-alpha), or add to `~/.cursor/mcp.json`:
 
 ```json
