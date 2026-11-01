@@ -1,0 +1,15 @@
+{
+  "name": "opinionalpha",
+  "owner": { "name": "Opinion Alpha", "email": "support@opinionalpha.app" },
+  "metadata": { "description": "Opinion Alpha for Claude Code: finance influencers' stock calls, sourced and scored." },
+  "plugins": [
+    {
+      "name": "opinion-alpha",
+      "source": "./plugins/opinion-alpha",
+      "description": "Ask what finance influencers say about a stock, check their track records, and get every claim with its source.",
+      "version": "1.0.0",
+      "category": "finance",
+      "homepage": "https://opinionalpha.app"
+    }
+  ]
+}

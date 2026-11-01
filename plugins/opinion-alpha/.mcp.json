@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "opinion-alpha": { "type": "http", "url": "https://api.opinionalpha.app/mcp" }
+  }
+}

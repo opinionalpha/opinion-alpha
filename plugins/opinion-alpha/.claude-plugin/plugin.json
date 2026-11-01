@@ -1,0 +1,24 @@
+{
+  "name": "opinion-alpha",
+  "description": "Finance influencers' stock calls, extracted, linked to their source and scored: the Opinion Alpha MCP server plus a research skill that uses it well.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Opinion Alpha",
+    "email": "support@opinionalpha.app",
+    "url": "https://opinionalpha.app"
+  },
+  "homepage": "https://opinionalpha.app/blog/opinion-alpha-in-your-ai-assistant",
+  "repository": "https://github.com/opinionalpha/opinion-alpha",
+  "license": "MIT",
+  "keywords": [
+    "finance",
+    "stocks",
+    "investing",
+    "influencers",
+    "sentiment",
+    "earnings",
+    "mcp"
+  ],
+  "privacyPolicyUrl": "https://opinionalpha.app/privacy",
+  "icon": ".claude-plugin/icon.png"
+}

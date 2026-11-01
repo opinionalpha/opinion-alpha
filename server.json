@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "app.opinionalpha/opinion-alpha",
+  "title": "Opinion Alpha",
+  "description": "Stock calls from finance influencers, linked to source and scored. Free with an account.",
+  "websiteUrl": "https://opinionalpha.app/blog/opinion-alpha-in-your-ai-assistant",
+  "version": "1.0.2",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.opinionalpha.app/mcp"
+    }
+  ]
+}
